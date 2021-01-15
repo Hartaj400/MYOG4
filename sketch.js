@@ -59,7 +59,7 @@ function draw() {
  textSize(20);
   text("score: "+ score, 20, 20);
   
-  
+  bounceoff()
    
    
     if (gameState===PLAY){
